@@ -1,4 +1,2 @@
-Updated: Your magic number is 20880 of course.
-A horse is a horse, of course of course.
-
+This is for assignment 4. Hope it works.
 
